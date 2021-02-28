@@ -3,7 +3,7 @@
 This  repository was dedicated as gallery of my udergraduate student's research. 
 
 Brief story :  This research discuss about analysis of 3 dimensional modeling based on close range photogrammetry method using Free and Open Source Software.
-               It means all of the process will be done using FOSS, both object reconstruction and finalizing (meshing and texturing).
+               It means all of the process will be done using FOSS, both object reconstruction and post-process (meshing and texturing).
                
                Solutions of Object Reconstruction:  - MicMac https://github.com/micmacIGN/micmac.git
                                                     - GRAPHOS https://github.com/itos3d/GRAPHOS.git
